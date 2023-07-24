@@ -1,5 +1,5 @@
 # photocatalysis/catalytic-degradation
-photocatalysis/catalytic or any type of  degradation in a period of time is a python code to help lab experiment data visualization
+photocatalysis/catalytic or any type of degradation in a period of time that can be measured using a UV-VIS spectrophotometer, is a python code to help lab experiment data visualization
 
 photocatalysisv2 is  a python code where:
 the input is: time and absorbance values (from the UV-Vis spectrophotometer) , 
